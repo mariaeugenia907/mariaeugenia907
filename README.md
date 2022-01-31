@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/77995348/151860468-02e5821b-60cb-41de-9774-4ae0297a7d60.gif" width="100" height="80" />
+<img align="center" src="https://user-images.githubusercontent.com/77995348/151860468-02e5821b-60cb-41de-9774-4ae0297a7d60.gif" width="150" height="90" />
 
 ## I'm Maria Eugênia! :smiley:
-
 - I live in :brazil:, northeast :sun_with_face::parasol_on_ground:
 
 ## Connect with me:
