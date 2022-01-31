@@ -1,12 +1,36 @@
 ### Hi there 👋
+
+<img src="https://user-images.githubusercontent.com/77995348/151860468-02e5821b-60cb-41de-9774-4ae0297a7d60.gif" width="100" height="80" />
+
 ## I'm Maria Eugênia! :smiley:
 
 - I live in :brazil:, northeast :sun_with_face::parasol_on_ground:
 
 ## Connect with me:
-<a href=" ">
-<img align="center" alt="mariaeugenia-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" style="max-width:100%;">
-<a>
+<a href="https://www.linkedin.com/in/<SEUNOMEDECONTATO>" alt="linkedin" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
+
+<a href="https://github.com/mariaeugenia907" alt="github" target="_blank"> 
+
+<img align="center" src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
+
+<a href="https://wa.me/<SEUNUMERO>" alt="WhatsApp" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+
+</a>
+
+<a href="mailto:<SEUEMAIL>" alt="gmail" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+
+</a>
+  
 
 ***
   
