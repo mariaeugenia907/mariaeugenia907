@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Maria Eugênia! :smiley:
 
-#I live in :brazil:, northeast :sun_with_face::parasol_on_ground:
+- I live in :brazil:, northeast :sun_with_face::parasol_on_ground:
 
 ## Connect with me:
 <a href=" ">
