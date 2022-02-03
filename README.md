@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <img align="center" src="https://user-images.githubusercontent.com/77995348/151860468-02e5821b-60cb-41de-9774-4ae0297a7d60.gif" width="150" height="90" />
 
 ## I'm Maria Eugênia! :smiley:
@@ -44,10 +43,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" height="40" width="40" style="max-width:100%;"></img>
 
 ***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<a href="https://github.com/mariaeugenia907">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeugenia907&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeugenia907&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 
