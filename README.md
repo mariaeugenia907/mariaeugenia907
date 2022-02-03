@@ -43,9 +43,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" height="40" width="40" style="max-width:100%;"></img>
 
 ***
+
 <a href="https://github.com/mariaeugenia907">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeugenia907&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeugenia907&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" src="https://github.com/mariaeugenia907/mariaeugenia907/blob/main/scr/Design%20sem%20nome%20(1).gif" width="150" height="180" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeugenia907&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeugenia907&layout=compact&langs_count=7&theme=dracula"/>
+  
+  
 </div>
 
 <!--
