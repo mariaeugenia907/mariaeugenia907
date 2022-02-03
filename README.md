@@ -27,7 +27,7 @@
 ***
   
 ## Technologies and tools :wink:
-<img src="https://user-images.githubusercontent.com/77995348/152415794-c24e27b3-5cdb-43f6-977e-4fe66fcdbb1c.png" alt="github" height="40" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40" style="max-width:100%;"></img>
